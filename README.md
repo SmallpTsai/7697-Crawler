@@ -3,7 +3,8 @@ Tamiya 70170 crawler controlled remotely by BLE with linkit 7697
 
 [![Youtube Video](images/1.jpg)](https://www.youtube.com/watch?v=wKwzWoCs6b0)
 
-Please check [Slideshare](https://www.slideshare.net/SmallpTsai/7697-crawler) for more detail
+* Please check [Youtube](https://www.youtube.com/watch?v=wKwzWoCs6b0) video!
+* Please check [Slideshare](https://www.slideshare.net/SmallpTsai/7697-crawler) for more detail
 
 ## Motor driver board
 
@@ -22,8 +23,6 @@ This project use 2 L293D to control 3 motors. 3 motors require 6 pin to control.
 * [Eagle Schematic](sch/7697_motor_driver_board.sch)
 * [Eagle Layout](sch/7697_motor_driver_board.brd)
 
-
-
 ## Arduino Source code
 
 ### Template
@@ -32,18 +31,20 @@ This project use 2 L293D to control 3 motors. 3 motors require 6 pin to control.
 
 ### Hanny's Version
 
-![image](images/IMG_1367.JPG)
+<img src="images/IMG_1367.JPG" width="640"/>
 
 ##### Control UI
 
-<img src="images/IMG_1368.PNG" width="480">
+<img src="images/IMG_1368.PNG" width="480"/>
+
 [Source](Crawler_Hanny/Crawler_Hanny.ino)
 
 ### Jenny's Version
 
-![image](images/IMG_1369.JPG)
+<img src="images/IMG_1369.JPG" width="640"/>
 
 ##### Control UI
 
-<img src="images/IMG_1370.PNG" width="480">
+<img src="images/IMG_1370.PNG" width="480"/>
+
 [Source](Crawler_Jenny/Crawler_Jenny.ino)
